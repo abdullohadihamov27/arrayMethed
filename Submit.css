@@ -1,0 +1,39 @@
+
+h1{
+    font-size: 30px;
+} 
+label {
+    font-size: 20px;
+
+}
+#jobs{
+    padding: 8px;
+    width: 32%;
+}
+#take{
+    margin-left: 210px;
+}
+section{
+    margin-top: 17px;
+} 
+#AddressInputId{
+    width: 32%;
+    padding: 6px;
+}
+#DateOfBirthInputId{
+    width: 11%;
+}
+input{
+    border-radius: 6px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 33%;
+    padding: 10px;
+    border-radius: 7px;
+}
+button:hover{
+    background-color: blue;
+    color: black;
+}
